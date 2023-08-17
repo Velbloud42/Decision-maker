@@ -46,9 +46,7 @@ if a == "2":
     rndm2 = random.choice(vrjnt1)
     clear()
     vsldkj()
-    print()
     print(rndm2)
-    print()
     wait()
 
 #varianta 2
@@ -60,9 +58,7 @@ if a == "3":
     rndm3 = random.choice(vrjnt2)
     clear()
     vsldkj()
-    print()
     print(rndm3)
-    print()
     wait()
 
 #varianta 3
@@ -76,8 +72,7 @@ if a == "4":
     clear()
     vsldkj()
     print(rndm4)
-    print()
-    wait()    
+    wait()
 
 #varianta 4
 if a == "5":
@@ -91,7 +86,6 @@ if a == "5":
     clear()
     vsldkj()
     print(rndm5)
-    print()
     wait()
 
 #varianta 5
@@ -107,7 +101,6 @@ if a == "6":
     clear()
     vsldkj()
     print(rndm6)
-    print()
     wait()
 
 #varianta 7
@@ -124,7 +117,6 @@ if a == "7":
     clear()
     vsldkj()
     print(rndm7)
-    print()
     wait()
 
 #varianta 8
@@ -142,7 +134,6 @@ if a == "8":
     clear()
     vsldkj()
     print(rndm8)
-    print()
     wait()
 
 #varianta 9
@@ -161,7 +152,6 @@ if a == "9":
     clear()
     vsldkj()
     print(rndm9)
-    print()
     wait()
 
 #varianta 10
@@ -181,5 +171,4 @@ if a == "10":
     clear()
     vsldkj()
     print(rndm10)
-    print()
     wait()
